@@ -1,4 +1,4 @@
-e-learning-digital-libraray
+e-learning-digital-library
 ===========================
 
 edl edl edl
